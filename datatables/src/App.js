@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import './App.css';
-import DataTablesPage from "./DataTablesPage";
+import DataTablesPage from "./pages/DataTablesPage";
 
 class App extends Component {
   render() {
